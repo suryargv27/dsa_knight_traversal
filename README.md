@@ -82,8 +82,6 @@ Shortest Path : (1,1) -> (2,3) -> (3,5) -> (4,7) -> (5,5) -> (6,7) -> (8,8)
 - Optimizing BFS with bi-directional search to speed up computations.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 
